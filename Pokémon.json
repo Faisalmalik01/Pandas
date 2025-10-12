@@ -1,0 +1,56 @@
+[
+  {
+    "No": 1,
+    "Name": "Bulbasaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Height": 0.7,
+    "Weight": 6.9,
+    "Legendary": false
+  },
+  {
+    "No": 2,
+    "Name": "Ivysaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Height": 1.0,
+    "Weight": 13.0,
+    "Legendary": false
+  },
+  {
+    "No": 3,
+    "Name": "Venusaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Height": 2.0,
+    "Weight": 100.0,
+    "Legendary": false
+  },
+  {
+    "No": 4,
+    "Name": "Charmander",
+    "Type1": "Fire",
+    "Type2": null,
+    "Height": 0.6,
+    "Weight": 8.5,
+    "Legendary": false
+  },
+  {
+    "No": 5,
+    "Name": "Charmeleon",
+    "Type1": "Fire",
+    "Type2": null,
+    "Height": 1.1,
+    "Weight": 19.0,
+    "Legendary": false
+  },
+  {
+    "No": 6,
+    "Name": "Charizard",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "Height": 1.7,
+    "Weight": 90.5,
+    "Legendary": false
+  }
+]
